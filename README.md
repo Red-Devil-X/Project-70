@@ -1,1 +1,3 @@
-# Project-70
+# Project 70
+
+Story Hub App
